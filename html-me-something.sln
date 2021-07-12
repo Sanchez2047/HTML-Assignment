@@ -9,10 +9,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{3517456C-2966-422F-813B-477CCEEE851D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Pictures\html pictures\Jurassicpark.jpg = ..\..\..\..\Pictures\html pictures\Jurassicpark.jpg
+		..\..\..\..\Pictures\html pictures\PiratesLatitudes.jpg = ..\..\..\..\Pictures\html pictures\PiratesLatitudes.jpg
+		..\..\..\..\Pictures\html pictures\Prey.jpg = ..\..\..\..\Pictures\html pictures\Prey.jpg
+		..\..\..\..\Pictures\html pictures\Sphere.jpg = ..\..\..\..\Pictures\html pictures\Sphere.jpg
+		..\..\..\..\Pictures\html pictures\StateOfFear.jpg = ..\..\..\..\Pictures\html pictures\StateOfFear.jpg
+		..\..\..\..\Pictures\html pictures\TheAndromedaStrain.jpg = ..\..\..\..\Pictures\html pictures\TheAndromedaStrain.jpg
+		..\..\..\..\Pictures\html pictures\TheTerminalMan.jpg = ..\..\..\..\Pictures\html pictures\TheTerminalMan.jpg
+		..\..\..\..\Pictures\html pictures\TimeLine.jpg = ..\..\..\..\Pictures\html pictures\TimeLine.jpg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3517456C-2966-422F-813B-477CCEEE851D} = {E1EFE2AB-193F-4736-B338-8587CC5182AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0628DEA-B775-45DD-AE56-05D4E11A5422}
