@@ -14,16 +14,17 @@ header {
 main{
     margin-top:100px;
 }
-h1{
-    text-align:center;
-    color:white;
-    font-size:40px;
-
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    text-shadow: 5px 5px darkslategrey;
 }
 h2 {
     font-weight: bold;
     color: white;
     font-size: 50px;
+    text-shadow: 5px 5px darkslategrey;
 }
 p {
     color: white;
@@ -48,14 +49,18 @@ img{
     width:300px;
     z-index:0;
 }
-#michael{
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+#michael {
 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-.author{
-    background-color:black;
+.author {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 /* Dropdown Button */
 .dropdown {
