@@ -6,10 +6,12 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1EFE2AB-193F-4736-B338-8587CC5182AE}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		styles.css = styles.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{3517456C-2966-422F-813B-477CCEEE851D}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Pictures\html pictures\bookbackground.jpg = ..\..\..\..\Pictures\html pictures\bookbackground.jpg
 		..\..\..\..\Pictures\html pictures\Jurassicpark.jpg = ..\..\..\..\Pictures\html pictures\Jurassicpark.jpg
 		..\..\..\..\Pictures\html pictures\PiratesLatitudes.jpg = ..\..\..\..\Pictures\html pictures\PiratesLatitudes.jpg
 		..\..\..\..\Pictures\html pictures\Prey.jpg = ..\..\..\..\Pictures\html pictures\Prey.jpg
