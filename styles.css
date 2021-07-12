@@ -121,3 +121,8 @@ img{
     background-color: darkslategrey;
     z-index: 999;
 }
+footer{
+    background-color:dimgrey;
+    font-size:20px;
+    font-weight: bold;
+}
